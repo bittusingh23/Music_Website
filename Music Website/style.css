@@ -1,0 +1,1127 @@
+.main {
+  height: 1002px;
+  width: 1368px;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.header {
+  height: 30px;
+  background-color: #270082;
+  margin-top: 10px;
+  width: 1368px;
+}
+.mytune {
+  color: #fff;
+  height: 20px;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 70px;
+}
+.menu {
+  display: flex;
+  list-style-type: none;
+  margin-top: -60px;
+  margin-left: 850px;
+}
+li {
+  color: #fff;
+  margin-top: 40px;
+
+  margin-left: 25px;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.textonimage {
+  margin-left: 600px;
+  color: #fff;
+  font-size: xxx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  background-attachment: fixed;
+  margin-top: -570px;
+}
+.textonimage2 {
+  margin-left: 500px;
+  color: #fff;
+  font-size: 18px;
+  background-attachment: fixed;
+  margin-top: 40px;
+}
+.textonimage3 {
+  width: 600px;
+  margin-left: 400px;
+  color: #fff;
+  font-size: 18px;
+  background-attachment: fixed;
+  margin-top: 20px;
+}
+.music {
+  background-color: #281154;
+  margin-left: -10px;
+  width: 1368px;
+  height: 800px;
+}
+.musiclogo {
+  height: 50px;
+  width: 50px;
+  justify-items: center;
+  align-items: center;
+  margin-left: 600px;
+  display: inline-block;
+  margin-top: 30px;
+}
+.musicname {
+  color: #fff;
+  margin-left: 660px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: xx-large;
+  margin-top: -50px;
+}
+.songabout {
+  color: #fff;
+  margin-left: 575px;
+  margin-top: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+}
+.stream {
+  color: #fff;
+  margin-left: 300px;
+  margin-top: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 830px;
+}
+.stream2 {
+  color: #fff;
+  margin-left: 480px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.trial {
+  color: #fff;
+  margin-top: 40px;
+  background-color: red;
+  width: 180px;
+  height: 55px;
+  margin-left: 590px;
+}
+h3 {
+  margin-left: 5px;
+  display: inline-block;
+}
+.songdetail {
+  color: #fff;
+  margin-left: 490px;
+  font-size: small;
+  margin-top: 20px;
+}
+.songimage {
+  margin-left: 250px;
+  margin-top: 40px;
+}
+.newdiv {
+  background-color: #f9f6ff;
+  height: 2360px;
+  width: 1368px;
+  margin-left: -10px;
+  background-attachment: fixed;
+}
+.moviecollection {
+  margin-top: 320px;
+  margin-left: 400px;
+  display: inline-block;
+  font-size: x-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.aboutmovie {
+  font-size: 20px;
+  margin-left: 180px;
+  margin-top: 30px;
+  width: 1060px;
+}
+.aboutmovie2 {
+  font-size: 20px;
+  margin-left: 530px;
+}
+.readmore {
+  background-color: #37008e;
+  flex-shrink: initial;
+  font-size: 25px;
+  margin-left: 650px;
+  margin-top: 30px;
+  width: 130px;
+}
+h4 {
+  display: block;
+  margin-left: 5px;
+  color: #fff;
+}
+.homepageimage {
+  margin-left: 200px;
+}
+.partyimage {
+  margin-top: 30px;
+}
+.giftcardimage {
+  margin-left: 150px;
+  margin-top: 70px;
+}
+.giftcard {
+  margin-left: 650px;
+  margin-top: -320px;
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.downpageabout {
+  margin-left: 650px;
+  width: 600px;
+  margin-top: 20px;
+  line-height: 30px;
+}
+.orangemusiccard {
+  margin-left: 650px;
+  margin-top: 40px;
+}
+.divline {
+  background-color: #b1a7a7;
+  margin-left: 650px;
+  width: 335px;
+  height: 7px;
+  margin-top: 30px;
+}
+.redeem {
+  background-color: #270082;
+  color: #fff;
+  font-size: 30px;
+  width: 120px;
+  height: 50px;
+  margin-left: 650px;
+  margin-top: 10px;
+}
+p {
+  margin-left: 6px;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+.downpage2 {
+  height: 440px;
+  display: inline-block;
+  background-color: #1b0058;
+  width: 1368px;
+  margin-left: -10px;
+}
+.shopabout {
+  color: #fff;
+  width: 160px;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.shopline {
+  background-color: #fff;
+  height: 1px;
+  margin-top: -16px;
+  width: 250px;
+}
+.orangestore {
+  color: #fff;
+  width: 160px;
+  margin-left: 420px;
+  margin-top: -54px;
+}
+.orangestoreline {
+  width: 250px;
+  background-color: #fff;
+  height: 1px;
+  margin-top: -16px;
+}
+.education {
+  color: #fff;
+  width: 250px;
+  margin-left: 690px;
+  margin-top: -54px;
+}
+.educationline {
+  width: 250px;
+  background-color: #fff;
+  height: 1px;
+  margin-top: -15px;
+}
+.aboutorange {
+  color: #fff;
+  width: 250px;
+  margin-left: 970px;
+  margin-top: -53px;
+}
+.orangeline {
+  background-color: #fff;
+  width: 250px;
+  margin-top: -14px;
+  height: 1px;
+}
+.helo {
+  list-style-type: none;
+  line-height: 1px;
+  margin-left: 125px;
+}
+.helo2 {
+  margin-left: 395px;
+  margin-top: -200px;
+  line-height: 1px;
+  list-style-type: none;
+}
+.helo3 {
+  margin-left: 665px;
+  margin-top: -205px;
+  list-style-type: none;
+  line-height: 1px;
+}
+.helo4 {
+  margin-left: 945px;
+  margin-top: -205px;
+  list-style-type: none;
+  line-height: 1px;
+}
+.lastdiv {
+  height: 50px;
+  width: 1368px;
+  margin-left: -10px;
+  background-color: #270082;
+}
+.lastdiv2 {
+  display: inline-block;
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 550px;
+  margin-top: 15px;
+}
+.mytune {
+  position: relative;
+  width: 75px;
+}
+.mytune::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, red, rgb(170, 0, 255), green);
+  transition: 0.3s ease;
+}
+.mytune:hover::after {
+  width: 100%;
+}
+.menu li:nth-child(1) {
+  position: relative;
+  width: 80px;
+}
+.menu li:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, red, rgb(255, 0, 217), green);
+  transition: 0.3s ease;
+}
+.menu li:nth-child(1):hover::after {
+  width: 100%;
+}
+.menu li:nth-child(2) {
+  position: relative;
+  width: 50px;
+}
+.menu li:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(29, 16, 16),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.menu li:nth-child(2):hover::after {
+  width: 100%;
+}
+.menu li:nth-child(3) {
+  position: relative;
+  width: 50px;
+}
+.menu li:nth-child(3)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    red,
+    rgb(0, 249, 253),
+    rgb(57, 88, 57)
+  );
+  transition: 0.3s ease;
+}
+.menu li:nth-child(3):hover::after {
+  width: 100%;
+}
+.menu li:nth-child(4) {
+  position: relative;
+  width: 85px;
+}
+.menu li:nth-child(4)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 22px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 195),
+    rgb(255, 85, 0),
+    rgb(10, 59, 10)
+  );
+  transition: 0.3s ease;
+}
+.menu li:nth-child(4):hover::after {
+  width: 100%;
+}
+
+.textonimage {
+  position: relative;
+  width: 200px;
+}
+.textonimage::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 60px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(236, 236, 236);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 0) (77, 33, 33),
+    rgb(0, 255, 13),
+    rgb(60, 128, 0)
+  );
+  transition: 0.3s ease;
+}
+.textonimage:hover::after {
+  width: 100%;
+}
+
+.musiclogo {
+  position: relative;
+  width: 150px;
+}
+.musiclogo::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.569),
+    rgb(0, 136, 255),
+    rgb(128, 0, 34)
+  );
+  transition: 0.3s ease;
+}
+.musiclogo:hover::after {
+  width: 100%;
+}
+
+.songabout {
+  position: relative;
+  width: 205px;
+}
+.songabout::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 25px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(to right, orange, white, green);
+  transition: 0.3s ease;
+}
+.songabout:hover::after {
+  width: 100%;
+}
+.trial {
+  position: relative;
+  width: 180px;
+}
+.trial::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 55px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(94, 255, 0),
+    rgb(0, 255, 166),
+    rgb(119, 9, 133)
+  );
+  transition: 0.3s ease;
+}
+.trial:hover::after {
+  width: 100%;
+}
+.songdetail {
+  position: relative;
+  width: 375px;
+}
+.songdetail::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 20px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(203, 180, 26),
+    rgb(255, 0, 217),
+    green
+  );
+  transition: 0.3s ease;
+}
+.songdetail:hover::after {
+  width: 100%;
+}
+.moviecollection {
+  position: relative;
+  width: 605px;
+}
+.moviecollection::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 30px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(to right, red, blue, green);
+  transition: 0.3s ease;
+}
+.moviecollection:hover::after {
+  width: 100%;
+}
+.readmore {
+  position: relative;
+  width: 130px;
+}
+.readmore::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 28px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  transition: 0.3s ease;
+  background-image: linear-gradient(to right, red, blue, green);
+}
+.readmore:hover::after {
+  width: 100%;
+}
+.giftcard {
+  position: relative;
+  width: 100px;
+}
+.giftcard::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 28px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  transition: 0.3s ease;
+  background-image: linear-gradient(
+    to right,
+    rgb(93, 20, 176),
+    rgb(32, 32, 59),
+    rgb(11, 98, 11)
+  );
+}
+.giftcard:hover::after {
+  width: 100%;
+}
+.orangemusiccard {
+  position: relative;
+  width: 340px;
+}
+.orangemusiccard::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 20px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  transition: 0.3s ease;
+  background-image: linear-gradient(to right, red, blue, green);
+}
+.orangemusiccard:hover::after {
+  width: 100%;
+}
+.divline {
+  position: relative;
+  width: 335px;
+}
+.divline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0px;
+  bottom: 0;
+  width: 0;
+  height: 7px;
+  background-color: rgb(134, 123, 123);
+  transition: 3s ease;
+  background-image: linear-gradient(to right, orange, white, green);
+}
+.divline:hover::after {
+  width: 100%;
+}
+
+.redeem {
+  position: relative;
+  width: 130px;
+}
+.redeem::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+  transition: 0.3s ease;
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 255, 4),
+    rgb(255, 0, 0),
+    rgb(126, 128, 0)
+  );
+}
+.redeem:hover::after {
+  width: 100%;
+}
+.helo li:nth-child(1) {
+  position: relative;
+  width: 48px;
+}
+.helo li:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(166, 255, 0),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo li:nth-child(1):hover::after {
+  width: 100%;
+}
+.helo li:nth-child(2) {
+  position: relative;
+  width: 58px;
+}
+.helo li:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 4, 4),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo li:nth-child(2):hover::after {
+  width: 100%;
+}
+.helo li:nth-child(3) {
+  position: relative;
+  width: 55px;
+}
+.helo li:nth-child(3)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 187),
+    rgb(0, 242, 255),
+    rgb(0, 92, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo li:nth-child(3):hover::after {
+  width: 100%;
+}
+.helo li:nth-child(4) {
+  position: relative;
+  width: 45px;
+}
+.helo li:nth-child(4)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 4, 4),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo li:nth-child(4):hover::after {
+  width: 100%;
+}
+.helo li:nth-child(5) {
+  position: relative;
+  width: 85px;
+}
+.helo li:nth-child(5)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 209, 4),
+    rgb(0, 255, 4),
+    rgb(128, 0, 90)
+  );
+  transition: 0.3s ease;
+}
+.helo li:nth-child(5):hover::after {
+  width: 100%;
+}
+.helo2 li:nth-child(1) {
+  position: relative;
+  width: 100px;
+}
+.helo2 li:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 30, 0),
+    rgb(92, 92, 21),
+    rgb(3, 56, 57)
+  );
+  transition: 0.3s ease;
+}
+.helo2 li:nth-child(1):hover::after {
+  width: 100%;
+}
+.helo2 li:nth-child(2) {
+  position: relative;
+  width: 135px;
+}
+.helo2 li:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(4, 255, 54),
+    rgb(0, 170, 255),
+    rgba(111, 0, 128, 0.666)
+  );
+  transition: 0.3s ease;
+}
+.helo2 li:nth-child(2):hover::after {
+  width: 100%;
+}
+.helo2 li:nth-child(3) {
+  position: relative;
+  width: 115px;
+}
+.helo2 li:nth-child(3)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 187),
+    rgb(0, 0, 0),
+    rgb(4, 128, 0)
+  );
+  transition: 0.3s ease;
+}
+.helo2 li:nth-child(3):hover::after {
+  width: 100%;
+}
+.helo2 li:nth-child(4) {
+  position: relative;
+  width: 80px;
+}
+.helo2 li:nth-child(4)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(4, 255, 121),
+    rgb(0, 255, 200),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo2 li:nth-child(4):hover::after {
+  width: 100%;
+}
+.helo2 li:nth-child(5) {
+  position: relative;
+  width: 105px;
+}
+.helo2 li:nth-child(5)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 142, 4),
+    rgb(0, 255, 4),
+    rgb(90, 0, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo2 li:nth-child(5):hover::after {
+  width: 100%;
+}
+.helo3 li:nth-child(1) {
+  position: relative;
+  width: 165px;
+}
+.helo3 li:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(166, 255, 0),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo3 li:nth-child(1):hover::after {
+  width: 100%;
+}
+.helo3 li:nth-child(2) {
+  position: relative;
+  width: 135px;
+}
+.helo3 li:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(46, 20, 20),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo3 li:nth-child(2):hover::after {
+  width: 100%;
+}
+.helo3 li:nth-child(3) {
+  position: relative;
+  width: 160px;
+}
+.helo3 li:nth-child(3)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 187),
+    rgb(0, 242, 255),
+    rgb(0, 92, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo3 li:nth-child(3):hover::after {
+  width: 100%;
+}
+.helo3 li:nth-child(4) {
+  position: relative;
+  width: 155px;
+}
+.helo3 li:nth-child(4)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 4, 4),
+    rgb(255, 255, 0),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo3 li:nth-child(4):hover::after {
+  width: 100%;
+}
+.helo3 li:nth-child(5) {
+  position: relative;
+  width: 40px;
+}
+.helo3 li:nth-child(5)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 209, 4),
+    rgb(0, 255, 4),
+    rgb(0, 68, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo3 li:nth-child(5):hover::after {
+  width: 100%;
+}
+.helo4 li:nth-child(1) {
+  position: relative;
+  width: 85px;
+}
+.helo4 li:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 153, 0),
+    rgb(0, 179, 255),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo4 li:nth-child(1):hover::after {
+  width: 100%;
+}
+.helo4 li:nth-child(2) {
+  position: relative;
+  width: 155px;
+}
+.helo4 li:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 4, 4),
+    rgb(59, 59, 22),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo4 li:nth-child(2):hover::after {
+  width: 100%;
+}
+.helo4 li:nth-child(3) {
+  position: relative;
+  width: 65px;
+}
+.helo4 li:nth-child(3)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(74, 11, 57),
+    rgb(0, 55, 255),
+    rgb(128, 0, 0)
+  );
+  transition: 0.3s ease;
+}
+.helo4 li:nth-child(3):hover::after {
+  width: 100%;
+}
+.helo4 li:nth-child(4) {
+  position: relative;
+  width: 55px;
+}
+.helo4 li:nth-child(4)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(
+    to right,
+    rgb(4, 58, 255),
+    rgb(255, 0, 102),
+    rgb(0, 126, 128)
+  );
+  transition: 0.3s ease;
+}
+.helo4 li:nth-child(4):hover::after {
+  width: 100%;
+}
+.helo4 li:nth-child(5) {
+  position: relative;
+  width: 130px;
+}
+.helo4 li:nth-child(5)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, orange, white, green);
+  transition: 0.3s ease;
+}
+.helo4 li:nth-child(5):hover::after {
+  width: 100%;
+}
